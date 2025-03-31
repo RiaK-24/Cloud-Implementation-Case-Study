@@ -10,29 +10,23 @@ This repository contains a **technical proposal and case study** detailing the m
 
 ## Contents
 
-### 1. **Project Background**
+### 1. **Project Background** (Refer docs Business Case, Project Charter in the Project artifacts folder)
 - Business drivers for migration
 - Challenges with PeopleSoft
 - Expected benefits of Workday implementation
 
-### 2. **Scope of Migration**
-- Modules included in the migration
-- Key functional and technical considerations
-
-### 3. **Technical Strategy**
+### 2. **Technical Strategy** (Refer Diagrams folder)
 - System architecture and data flow
 - Integration between Workday and legacy systems
 - Data migration approach
   - Data extraction, transformation, and loading (ETL)
   - Data validation and reconciliation
 
-### 4. **Program Management Approach**
-- Governance structure
+### 4. **Program Management Approach** (Refer docs Stakeholder Matrix, Risk Register in the Project artifacts folder)
 - Stakeholder engagement
-- Risk management framework
-- Agile vs. Waterfall execution
+- Risk Register
 
-### 5. **Challenges & Risk Mitigation**
+### 5. **Challenges & Risk Mitigation** (Refer doc - Risk Register in the Project artifacts folder)
 - Common issues faced in ERP migrations
 - Strategies to minimize downtime
 - Ensuring data accuracy and compliance
