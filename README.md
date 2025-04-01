@@ -15,7 +15,7 @@ This repository contains a **technical proposal and case study** detailing the m
 - Challenges with PeopleSoft
 - Expected benefits of Workday implementation
 
-### 2. **Technical Strategy** (Refer Diagrams folder)
+### 2. **Technical Strategy** (Refer Data Migration and Diagrams folder)
 - System architecture and data flow
 - Integration between Workday and legacy systems
 - Data migration approach
