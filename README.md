@@ -35,7 +35,6 @@ This repository contains a **technical proposal and case study** detailing the m
 - Sample KPIs
 
 ### 7. **Go-Live & Post-Go-Live Support**
-- Cutover planning
 - Hypercare and support model
 - Performance monitoring and optimization
 
