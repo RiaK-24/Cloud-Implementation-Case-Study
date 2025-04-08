@@ -36,7 +36,6 @@ This repository contains a **technical proposal and case study** detailing the m
 
 ### 7. **Go-Live & Post-Go-Live Support**
 - Hypercare and support model
-- Performance monitoring and optimization
 
 ## Contributing
 If you have insights or recommendations for improving Workday migrations, feel free to submit a pull request or open an issue.
